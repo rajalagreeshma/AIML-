@@ -1,1 +1,10 @@
-# AIML LAB-1-https://colab.research.google.com/drive/1s8sS7qEb8OzeorrFDQPmwKsI3M4j0lrE
+#AIML LAB-1-https://github.com/GREESHMARAJALA/AIML/blob/main/Aiml_LAB_1.ipynb
+#AIML LAB-2-https://github.com/GREESHMARAJALA/AIML/blob/main/AIML_LAB_2_BFS%2CDFS%2CA_.ipynb
+#AIML LAB-3-https://github.com/GREESHMARAJALA/AIML/blob/main/AIML_3_TicTacToe.ipynb
+#AIML LAB-4-https://github.com/GREESHMARAJALA/AIML/blob/main/Untitled3%20(1).ipynb
+#AIML LAB-5-https://github.com/GREESHMARAJALA/AIML/blob/main/AIML%20LAB%20-5
+#AIML LAB-6-https://github.com/GREESHMARAJALA/AIML/blob/main/AIML%20LAB-6
+#AIML LAB-7-https://github.com/GREESHMARAJALA/AIML/blob/main/LAB_7(29_10_24).ipynb
+#AIML LAB-8-https://github.com/GREESHMARAJALA/AIML/blob/main/LAB_8.ipynb
+#AIML LAB-9-https://github.com/GREESHMARAJALA/AIML/blob/main/AIML_LAB_9.ipynb
+#AIML LAB-10-https://github.com/GREESHMARAJALA/AIML/blob/main/LAB_10(12_11_24).ipynb
